@@ -1,4 +1,4 @@
-=== Visitors Cafe Video Chat ===
+=== VisitorsCafe Video Chat ===
 Contributors: sinapticode
 Tags: visitors, visitorscafe, webcam, webchat, videochat, web, video, chat, online, live, sidebar, tab, widget, community, socialize
 Requires at least: 3.0

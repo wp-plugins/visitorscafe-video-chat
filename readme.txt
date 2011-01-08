@@ -29,4 +29,4 @@ For a detailed features list, go to http://www.visitorscafe.com/features
 
 == Screenshots ==
 
-1.  
+1. VisitorsCafe Video Chat installation
